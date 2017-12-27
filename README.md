@@ -1,4 +1,2 @@
-# makan-apa-generator
-makan apa pake p5js
-
-demo: https://labtek-indie.github.io/makan-apa-generator/ 
+# Map Viz of Indonesia latest Earthquake
+using p5js, mapbox, and BMKG earthquake data
