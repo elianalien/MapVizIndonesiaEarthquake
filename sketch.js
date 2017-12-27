@@ -13,7 +13,7 @@ var mapToken = 'pk.eyJ1IjoiZWxpYW5hbGllbiIsImEiOiJjamJvbXNnNHkzdWM2MzRxd2pncGlmZ
 var earthquakeInd;
 
 /**
-STYLE MAPBOX
+STYLE MAP
  mapbox://styles/mapbox/streets-v10
  mapbox://styles/mapbox/outdoors-v10
  mapbox://styles/mapbox/light-v9
