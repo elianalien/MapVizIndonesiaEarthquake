@@ -101,7 +101,7 @@ function preload(){
               String(mapWidth)+'x'+String(mapHeight)+'?'+
               'access_token='+mapToken);
 
-  earthquakeInd = loadStrings('http://127.0.0.1:8080/gempa.txt');
+  earthquakeInd = loadStrings('https://raw.githubusercontent.com/labtek-indie/map-viz-indo-gempa/master/gempa.txt');
 }
 
 function xMerc(lon){
